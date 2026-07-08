@@ -11,6 +11,7 @@ import json
 from Crypto.Cipher import AES
 import asyncio
 import string
+import secrets
 
 init(convert=True)
 
