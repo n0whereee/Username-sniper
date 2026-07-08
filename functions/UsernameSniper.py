@@ -1,5 +1,4 @@
 from config.settings import *
-import secrets
 
 token = MyToken()
 
