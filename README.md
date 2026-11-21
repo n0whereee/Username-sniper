@@ -1,6 +1,6 @@
 # Username Sniper
 
-A fast and lightweight Discord 4-digit username availability checker.
+A simple and lightweight Discord 4-digit username availability checker.
 
 ---
 
