@@ -1,60 +1,56 @@
 # Username Sniper
 
-A simple and lightweight Discord 4-digit username availability checker.
+A simple and lightweight Discord tool for checking the availability of four-digit usernames.
 
 ---
 
-## ⚡ Features
+## Features
 
-### 🎯 Username Sniper
-
-Looking for 4 digit discord usernames
+### Username Sniper
+- Checks the availability of four-digit Discord usernames.
 
 ---
 
-## 🧠 Requirements
+## Requirements
 
-Before using the tool, you **MUST** install Python.
+Python must be installed before using this tool.
 
-### 📌 Install Python
+**Download Python:**
 
 https://www.python.org/downloads/
 
-⚠️ During installation make sure to enable:
+During installation, make sure to enable:
 
 - Add Python to PATH
 
 ---
 
-## 📦 Installation
+## Installation
 
-### Option 1
+### Option 1: Automatic Installation
 
 1. Download the project.
-2. Extract the folder.
+2. Extract the archive.
 3. Run:
 
 ```bat
 setup.bat
 ```
 
-This will:
+The setup script will:
+- Check your Python installation.
+- Install the required dependencies.
+- Launch the application automatically.
 
-- Check your Python installation
-- Install all required dependencies
-- Launch the application automatically
+### Option 2: Manual Installation
 
----
-
-### Option 2 (Manual)
-
-Install the required packages:
+Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Then start the tool:
+Start the application:
 
 ```bash
 python main.py
@@ -62,7 +58,7 @@ python main.py
 
 ---
 
-## 📥 Dependencies
+## Dependencies
 
 - colorama
 - requests
@@ -71,11 +67,9 @@ python main.py
 
 ---
 
-## ▶️ Usage
+## Usage
 
-After running `setup.bat`, the tool starts automatically.
-
-Or launch it manually:
+After completing the installation, launch the application using `setup.bat` or run it manually:
 
 ```bash
 python main.py
@@ -83,12 +77,12 @@ python main.py
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-This tool is for educational purposes only.
+This project is intended for educational purposes only. The author is not responsible for any misuse of the provided tools.
 
 ---
 
-## 👤 Author
+## Author
 
-0xN0WHERE
+**0xN0WHERE**
