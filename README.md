@@ -6,8 +6,7 @@ A simple and lightweight Discord tool for checking the availability of four-digi
 
 ## Features
 
-### Username Sniper
-Looking for 4 digit discord usernames
+- Looking for 4 digit discord usernames
 
 ---
 
