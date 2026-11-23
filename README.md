@@ -85,4 +85,4 @@ This project is intended for educational purposes only. The author is not respon
 
 ## Author
 
-**0xN0WHERE**
+**n0where**
